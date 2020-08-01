@@ -1,0 +1,16 @@
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\realcalc\obj\Debug\netcoreapp3.1\realcalc.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\realcalc\obj\Debug\netcoreapp3.1\realcalc.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\realcalc\obj\Debug\netcoreapp3.1\realcalc.AssemblyInfo.cs
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\realcalc\obj\Debug\netcoreapp3.1\realcalc.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\realcalc\bin\Debug\netcoreapp3.1\realcalc.exe
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\realcalc\bin\Debug\netcoreapp3.1\realcalc.deps.json
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\realcalc\bin\Debug\netcoreapp3.1\realcalc.runtimeconfig.json
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\realcalc\bin\Debug\netcoreapp3.1\realcalc.runtimeconfig.dev.json
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\realcalc\bin\Debug\netcoreapp3.1\realcalc.dll
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\realcalc\bin\Debug\netcoreapp3.1\realcalc.pdb
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\realcalc\bin\Debug\netcoreapp3.1\gputil.dll
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\realcalc\bin\Debug\netcoreapp3.1\gputil.pdb
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\realcalc\obj\Debug\netcoreapp3.1\realcalc.csproj.CopyComplete
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\realcalc\obj\Debug\netcoreapp3.1\realcalc.dll
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\realcalc\obj\Debug\netcoreapp3.1\realcalc.pdb
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\realcalc\obj\Debug\netcoreapp3.1\realcalc.genruntimeconfig.cache

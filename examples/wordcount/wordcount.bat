@@ -1,0 +1,1 @@
+..\..\binaries\gplex /NoParser wordcount

@@ -1,0 +1,16 @@
+C:\Users\victo\OneDrive\source_code\GardenPoint\gplex\source\bin\Release\netcoreapp3.1\gplex.exe
+C:\Users\victo\OneDrive\source_code\GardenPoint\gplex\source\bin\Release\netcoreapp3.1\gplex.deps.json
+C:\Users\victo\OneDrive\source_code\GardenPoint\gplex\source\bin\Release\netcoreapp3.1\gplex.runtimeconfig.json
+C:\Users\victo\OneDrive\source_code\GardenPoint\gplex\source\bin\Release\netcoreapp3.1\gplex.runtimeconfig.dev.json
+C:\Users\victo\OneDrive\source_code\GardenPoint\gplex\source\bin\Release\netcoreapp3.1\gplex.dll
+C:\Users\victo\OneDrive\source_code\GardenPoint\gplex\source\bin\Release\netcoreapp3.1\gplex.pdb
+C:\Users\victo\OneDrive\source_code\GardenPoint\gplex\source\bin\Release\netcoreapp3.1\gputil.dll
+C:\Users\victo\OneDrive\source_code\GardenPoint\gplex\source\bin\Release\netcoreapp3.1\gputil.pdb
+C:\Users\victo\OneDrive\source_code\GardenPoint\gplex\source\obj\Release\netcoreapp3.1\gplex.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\source_code\GardenPoint\gplex\source\obj\Release\netcoreapp3.1\gplex.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\source_code\GardenPoint\gplex\source\obj\Release\netcoreapp3.1\gplex.AssemblyInfo.cs
+C:\Users\victo\OneDrive\source_code\GardenPoint\gplex\source\obj\Release\netcoreapp3.1\gplex.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\source_code\GardenPoint\gplex\source\obj\Release\netcoreapp3.1\gplex.csproj.CopyComplete
+C:\Users\victo\OneDrive\source_code\GardenPoint\gplex\source\obj\Release\netcoreapp3.1\gplex.dll
+C:\Users\victo\OneDrive\source_code\GardenPoint\gplex\source\obj\Release\netcoreapp3.1\gplex.pdb
+C:\Users\victo\OneDrive\source_code\GardenPoint\gplex\source\obj\Release\netcoreapp3.1\gplex.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\victo\OneDrive\source_code\GardenPoint\gppg\source\obj\Debug\netcoreapp3.1\gppg.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\source_code\GardenPoint\gppg\source\obj\Debug\netcoreapp3.1\gppg.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\source_code\GardenPoint\gppg\source\obj\Debug\netcoreapp3.1\gppg.AssemblyInfo.cs
+C:\Users\victo\OneDrive\source_code\GardenPoint\gppg\source\obj\Debug\netcoreapp3.1\gppg.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\source_code\GardenPoint\gppg\source\bin\Debug\netcoreapp3.1\gppg.exe
+C:\Users\victo\OneDrive\source_code\GardenPoint\gppg\source\bin\Debug\netcoreapp3.1\gppg.deps.json
+C:\Users\victo\OneDrive\source_code\GardenPoint\gppg\source\bin\Debug\netcoreapp3.1\gppg.runtimeconfig.json
+C:\Users\victo\OneDrive\source_code\GardenPoint\gppg\source\bin\Debug\netcoreapp3.1\gppg.runtimeconfig.dev.json
+C:\Users\victo\OneDrive\source_code\GardenPoint\gppg\source\bin\Debug\netcoreapp3.1\gppg.dll
+C:\Users\victo\OneDrive\source_code\GardenPoint\gppg\source\bin\Debug\netcoreapp3.1\gppg.pdb
+C:\Users\victo\OneDrive\source_code\GardenPoint\gppg\source\bin\Debug\netcoreapp3.1\gputil.dll
+C:\Users\victo\OneDrive\source_code\GardenPoint\gppg\source\bin\Debug\netcoreapp3.1\gputil.pdb
+C:\Users\victo\OneDrive\source_code\GardenPoint\gppg\source\obj\Debug\netcoreapp3.1\gppg.csproj.CopyComplete
+C:\Users\victo\OneDrive\source_code\GardenPoint\gppg\source\obj\Debug\netcoreapp3.1\gppg.dll
+C:\Users\victo\OneDrive\source_code\GardenPoint\gppg\source\obj\Debug\netcoreapp3.1\gppg.pdb
+C:\Users\victo\OneDrive\source_code\GardenPoint\gppg\source\obj\Debug\netcoreapp3.1\gppg.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\wordcount\bin\Debug\netcoreapp3.1\wordcount.exe
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\wordcount\bin\Debug\netcoreapp3.1\wordcount.deps.json
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\wordcount\bin\Debug\netcoreapp3.1\wordcount.runtimeconfig.json
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\wordcount\bin\Debug\netcoreapp3.1\wordcount.runtimeconfig.dev.json
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\wordcount\bin\Debug\netcoreapp3.1\wordcount.dll
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\wordcount\bin\Debug\netcoreapp3.1\wordcount.pdb
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\wordcount\obj\Debug\netcoreapp3.1\wordcount.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\wordcount\obj\Debug\netcoreapp3.1\wordcount.AssemblyInfo.cs
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\wordcount\obj\Debug\netcoreapp3.1\wordcount.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\wordcount\obj\Debug\netcoreapp3.1\wordcount.dll
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\wordcount\obj\Debug\netcoreapp3.1\wordcount.pdb
+C:\Users\victo\OneDrive\source_code\GardenPoint\examples\wordcount\obj\Debug\netcoreapp3.1\wordcount.genruntimeconfig.cache

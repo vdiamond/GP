@@ -1,0 +1,9 @@
+C:\Users\victo\OneDrive\source_code\GardenPoint\gputil\bin\Debug\netcoreapp3.1\gputil.deps.json
+C:\Users\victo\OneDrive\source_code\GardenPoint\gputil\bin\Debug\netcoreapp3.1\gputil.dll
+C:\Users\victo\OneDrive\source_code\GardenPoint\gputil\bin\Debug\netcoreapp3.1\gputil.pdb
+C:\Users\victo\OneDrive\source_code\GardenPoint\gputil\obj\Debug\netcoreapp3.1\gputil.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\source_code\GardenPoint\gputil\obj\Debug\netcoreapp3.1\gputil.AssemblyInfo.cs
+C:\Users\victo\OneDrive\source_code\GardenPoint\gputil\obj\Debug\netcoreapp3.1\gputil.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\source_code\GardenPoint\gputil\obj\Debug\netcoreapp3.1\gputil.dll
+C:\Users\victo\OneDrive\source_code\GardenPoint\gputil\obj\Debug\netcoreapp3.1\gputil.pdb
+C:\Users\victo\OneDrive\source_code\GardenPoint\gputil\obj\Debug\netcoreapp3.1\gputil.csprojAssemblyReference.cache
