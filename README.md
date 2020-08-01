@@ -863,9 +863,7 @@ ol
 ul
 	{margin-bottom:0cm;}
 -->
-</style>
-<!--[if gte mso 10]>
-<style>
+
  /* Style Definitions */
  table.MsoNormalTable
 	{mso-style-name:"Table Normal";
