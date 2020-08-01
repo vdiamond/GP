@@ -1,6 +1,7 @@
 # GP
-Garden Point LEX and Parser Generator. Converted to .NET Core.
-Copyright © 2006-2011 Queensland University of Technology (QUT). All rights reserved.
+<b>Garden Point LEX and Parser Generator. Converted to .NET Core.</b>
+
+<p>Copyright © 2006-2011 Queensland University of Technology (QUT). All rights reserved.</p>
 
 I have been using GPPG and GPLEX for years. An excellent product. Versions are not being updated anymore and the uploads I find on various repositories are incomplete, missing documentation, cannot compile and are not available in .NET Core. 
 
